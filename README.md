@@ -3,7 +3,7 @@
 🎓 Electrical Engineering Student  
 🤖 Robotics & IoT Trainer  
 💻 Computer Science & Programming  
-🗣️ Debater & Debate Facilitator
+🗣️ Debater
 
 ## About Me
 
@@ -72,8 +72,7 @@ Electrical Engineering — 4th Year
 
 ### Debate
 
-- Debate Facilitator Certifications
-- Debate Participant & Training Certifications
+- Debate Participant Certifications
 
 ## 🗣️ Debate & Communication
 
